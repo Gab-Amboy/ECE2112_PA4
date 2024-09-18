@@ -59,8 +59,6 @@ c. By Hometown
 ## 📜 VI. Version History
 - **1.0** - Initial files upload commit.
 - **1.1** - Started working on Read Me document.
-- **1.2** - Updated Read Me and enhanced documentation section.
+- **1.2** - Updated Read Me.
 
 ---
-
-For any questions or further clarifications, feel free to open an issue in this repository.
